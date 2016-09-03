@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="pNombre">pNombre</string>
+    <string name="pRaza">pRaza</string>
+    <string name="pRating">pRating</string>
+    <string name="pFoto">pFoto</string>
+    <string name="titulo_favoritos">Mascotas Favoritas</string>
+    <string name="titulo_detalle">Detalle mascota</string>
+</resources>

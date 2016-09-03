@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+    <item
+        android:id="@+id/actionViewLayout"
+        android:icon="@mipmap/ic_fivestart"
+        android:title="Favoritos"
+        android:showAsAction="always"
+        />
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings">
+    </item>
+    -->
+</menu>
